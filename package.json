@@ -1,0 +1,23 @@
+{
+  "name": "sintu-playwright-assignment",
+  "version": "1.0.0",
+  "description": "This answers the assignment from [ndosiautomation](https://www.ndosiautomation.co.za). This follows training to use Playwright using Typescript.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sintutu/sintu-playwright-assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sintutu/sintu-playwright-assignment/issues"
+  },
+  "homepage": "https://github.com/sintutu/sintu-playwright-assignment#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^26.0.1"
+  }
+}
