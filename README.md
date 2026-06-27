@@ -14,6 +14,5 @@ This answers the assignment from [ndosiautomation](https://www.ndosiautomation.c
 ## Run
 
 ```sh
-npm install playwright@latest
-npx run test
+npx playwright test
 ```
